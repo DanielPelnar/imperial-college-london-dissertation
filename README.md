@@ -10,8 +10,7 @@ This repository houses Python and R scripts that were used to do the analyses in
 Abstract
 
 This paper examines the mispricing determinants of Bitcoin and Ethereum quarterly
-futures traded on Binance from February 2021 to June 2022 by employing contract–
-by–contract regression analysis. Additionally, we consider quadratic form specification
+futures traded on Binance from February 2021 to June 2022 by employing contract–by–contract regression analysis. Additionally, we consider quadratic form specification
 of the regression models to determine whether futures trading volume has a diminishing
 effect on the mispricing term (or the basis) and whether a point of maxima
 can be found. Finally, we amend the general cost–of–carry model so it does not

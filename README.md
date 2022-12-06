@@ -1,8 +1,9 @@
 **Master Thesis -- Imperial College London (2022) -- Daniel Pelnar**
 
-Determinants of Mispricing of Cryptocurrency Futures
+# Title: Determinants of Mispricing of Cryptocurrency Futures
+* Supervisor: Dr Paul A. Bilokon
+* Second marker: Prof William J. Knottenbelt
 
 
-This repository houses Python and R scripts that were used to do the analysis in my thesis.
+This repository houses Python and R scripts that were used to do the analyses in my thesis.
 
-Excel files are used as an input for the R script. 

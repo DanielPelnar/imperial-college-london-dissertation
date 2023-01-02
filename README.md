@@ -7,7 +7,7 @@
 
 This repository houses Python and R scripts that were used to do the analyses in my thesis.
 
-Abstract
+**Abstract**
 
 This paper examines the mispricing determinants of Bitcoin and Ethereum quarterly
 futures traded on Binance from February 2021 to June 2022 by employing contract–by–contract regression analysis. Additionally, we consider quadratic form specification
